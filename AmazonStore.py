@@ -5,7 +5,7 @@
 class AmazonItem:
     """
     Represents items that will be offered for sale at an Amazon storefront from a seller that is buying their
-    items from a
+    items from a wholesaler
     """
     def __init__(self, name, wholesale_cost, selling_price):
         """Creates a new menu item with a name, wholesale cost and the price it will be sold at"""
